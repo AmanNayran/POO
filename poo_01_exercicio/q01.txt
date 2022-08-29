@@ -1,0 +1,14 @@
+Qual a diferença entre objetos e classes? Exemplifique.
+
+Classe é um conjunto de objetos distintos, porém com as mesmas características e comportamentos. 
+Exemplos de classe:
+    Pessoa
+    Animal
+    Automóvel
+
+Objeto é uma instância derivado de uma classe e é uma representação de qualquer coisa, 
+real ou abstrata, sendo, sempre um elemento da uma classe. 
+Exemplos de objeto:
+    Pessoa    => Joaquim
+    Animal    => Pantera
+    Automóvel => Uno

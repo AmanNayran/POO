@@ -1,0 +1,16 @@
+De forma breve, conceitue atributos e métodos. Pesquise e exemplifique um
+exemplo de objeto que possua atributos e métodos (notação livre).
+
+Atributos são as características do objeto, também conhecidas como variáveis.
+Exemplos de atributo:
+    Pessoa:
+        Altura
+        Peso
+        Cor
+
+Métodos são as ações que os objetos podem fazer, também podem interagir e se comunicarem com outros objetos.
+Exemplos de métodos:
+    Pessoa
+        Ler
+        Escrever
+        Andar

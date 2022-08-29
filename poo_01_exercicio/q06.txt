@@ -1,0 +1,56 @@
+Imagine um jogo qualquer. Identifique o máximo  obdejetos possíveis e eventuais
+características (atributos) e comportamentos (métodos) que os mesmos poderiam
+ter.
+
+Jogo: Futebol
+
+Objetos:
+    Jogadores
+    Tecnicos
+    Medicos
+    Comentaristas
+    Juiz
+    Bandeirinha
+    Torcida
+    Gandula
+
+Atributos:
+    Jogadores
+        Time, função, altura, peso, número
+    Tecnicos
+        Time, estratégia, experiência, liderança
+    Medicos
+        Maca, remédio
+    Comentaristas
+        Comentários, transmissão, notícia
+    Juiz
+        Regras, cartão, faltas
+    Bandeirinha
+        Regras, faltas
+    Torcida
+        Time, ingresso
+    Gandula
+        Velocidade
+    Guarda
+        Força, confiança   
+
+Métodos:
+    Jogadores
+        Jogar, atacar, defender, chutar, cabeceio
+    Tecnicos
+        Treinar, auxiliar, comandar
+    Medicos
+        Cuidar, medicar, massagem
+    Comentaristas
+        Comentar, Informar 
+    Juiz
+        Arbitrar, controlar, punir
+    Bandeirinha
+        Controlar, marcar impedimento
+    Torcida
+        Torcer, Comemorar, gritar
+    Gandula
+        Pegar a bola
+    Guarda
+        Auxiliar, proteger
+

@@ -1,0 +1,7 @@
+Identifique pelo menos 5 objetos de um sistema de controle acadêmico. Ex: aluno.
+
+ -> Professor
+ -> Funcionário
+ -> Cordenador
+ -> Diretor
+ -> Pais do aluno
