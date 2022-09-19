@@ -1,0 +1,3 @@
+Pesquise e, se encontrar, um exemplo onde o tipo any seria benéfico.
+
+O any se torna benéfico quando não se tem conhecimento do valor da variável.

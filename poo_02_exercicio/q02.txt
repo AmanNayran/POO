@@ -1,0 +1,4 @@
+Qual o principal problema do uso de tipagem dinâmica?
+
+Isso acontece quando o tipo de dados não está bem definido,
+a linguagem pode alterar o tipo de ação sem a intervenção direta do programador.

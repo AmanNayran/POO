@@ -1,0 +1,7 @@
+Pesquise e exemplifique com um exemplo porque dizemos que a linguagem C,
+mesmo tendo tipagem estática, possui tipagem fraca.
+
+Pois nessa linguagem, não é necessário informar o tipo das variáveis, 
+além de uma linguagem que falha entre os tipos automáticos.
+
+ex: Gravar um int e acessá-lo como se fosse um ponteiro
