@@ -1,0 +1,19 @@
+4. Considerando o uso da classe Conta apresentada em aula e seu uso abaixo:
+let c1: Conta = new Conta("1",100);
+let c2: Conta = new Conta("2",100);
+let c3: Conta;
+c1 = c2;
+c3 = c1;
+c1.sacar(10);
+
+c1.transferir(c2,50);
+console.log(c1.consultarSaldo());
+console.log(c2.consultarSaldo());
+console.log(c3.consultarSaldo());
+
+a. Qual o resultado dos dois "prints"? Justifique sua resposta.
+    O valor é 90. Isso acontece pois a variável "c1" passou a receber o valor de "c2" 
+    no seu próprio endereço, com isso os dois "prints" foram os resultados de "c2".
+
+b. O que acontece com o objeto para o qual a referência c1 apontava?
+    O objeto para o qual a referência c1 apontava é substituido por c2 e logo depois é excluida da memória.
