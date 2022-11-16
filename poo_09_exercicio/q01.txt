@@ -1,0 +1,4 @@
+1. Podemos instanciar classes abstratas? Justifique.
+
+Não. Pois as classes abstratas  não permitem a criação de instâncias de qualquer tipo, 
+e são classes projetadas para servir como modelos para classes derivadas.

@@ -1,0 +1,4 @@
+3. Se uma classe que herda de uma abstrata e não implementa os seus métodos, o que ocorre?
+
+Acontece um erro e não compila.
+Erro: Non-abstract class 'ClasseConcreta' does not implement inherited abstract member 'imprimaAlgo' from class 'ClasseAbstrata'.

@@ -1,0 +1,7 @@
+5. Não podemos aplicar o operador new em FiguraGeometrica, mas por que então
+podemos realizar o seguinte código de instanciação:
+
+abstract class FiguraGeometrica {}
+let figuras: FiguraGeometrica[] = new Array();
+
+Pois está instanciando um arry e não a classe abstrata em si.
